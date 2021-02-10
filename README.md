@@ -6,4 +6,4 @@
 
 
 
-### `I could install gentoo if i  wanted`- _cronos-hash_
+### `I could install gentoo if I wanted`- cronos-hash (2021)
