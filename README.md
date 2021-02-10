@@ -18,10 +18,6 @@
 
 <hr>
 
-
-<p>
-<img src="https://img.shields.io/github/followers/cronos-hash?label=Follow&style=social">
-</p>
-
+![](https://visitor-badge.glitch.me/badge?page_id=ari-hacks.ari-hacks)
 
 
