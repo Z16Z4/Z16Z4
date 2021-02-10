@@ -3,8 +3,8 @@
 <p class="img-container">
   <img src="https://img.shields.io/badge/Linux-Arch-292e33?style=flat-square&logo=Arch-Linux&logoColor=ffffff">
   <img src="https://img.shields.io/badge/IDE-VS Code-292e33?style=flat-square&logo=PyCharm&logoColor=fff">
-  <img src="https://img.shields.io/badge/BROWSER-Librewolf-292e33?style=flat-square&logo=Microsoft-Edge">
-  <img src="https://img.shields.io/badge/BROWSER-Tor-292e33?style=flat-square&logo=Tor-Project">
+  <img src="https://img.shields.io/badge/Public-Librewolf-292e33?style=flat-square&logo=Microsoft-Edge">
+  <img src="https://img.shields.io/badge/Private-Tor-292e33?style=flat-square&logo=Tor-Project">
   <img src="https://img.shields.io/badge/Python-292e33?style=flat-square&logo=Python">
 </p>
 
