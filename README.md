@@ -7,4 +7,6 @@
   <img src="https://img.shields.io/badge/VS Code-292e33?style=flat-square&logo=PyCharm&logoColor=fff">
   <img src="https://img.shields.io/badge/BROWSER-Librewolf-292e33?style=flat-square&logo=Microsoft-Edge">
   <img src="https://img.shields.io/badge/BROWSER-Tor-292e33?style=flat-square&logo=Tor-Project">
+  <img src="https://img.shields.io/badge/Python-292e33?style=flat-square&logo=Python">
+
 </p>
