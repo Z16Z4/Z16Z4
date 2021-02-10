@@ -6,4 +6,4 @@
 
 
 
-### `I could install gentoo if I wanted`- cronos-hash (2021)
+### `if you think your users are idiots only idiots will use it  `- _cronos-hash_
