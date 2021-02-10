@@ -1,4 +1,4 @@
-<img class="img-container" src="https://github.com/cronos-hash/cronos-hash/blob/main/profilegif.gif">
+<img align="center" src="https://github.com/cronos-hash/cronos-hash/blob/main/profilegif.gif">
 
 
 
