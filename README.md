@@ -21,3 +21,9 @@
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=cronos-hash&hide=TeX,HTML&theme=tokyonight">
 </p>
 </details>
+
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=cronos-hash" alt="cronos-hash" />
+</p>
