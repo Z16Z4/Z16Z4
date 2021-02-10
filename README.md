@@ -14,8 +14,8 @@
  <summary> <b>__github_stats__</b></summary>
 <br>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=cronos-hash&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=cronos-hash&hide=TeX,HTML&theme=cobalt">
+  <img src = "https://github-readme-stats.vercel.app/api?username=cronos-hash&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=cronos-hash&hide=TeX,HTML&theme=synthwave">
 </p>
 </details>
 
