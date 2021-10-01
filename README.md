@@ -22,3 +22,5 @@
   <img src="https://komarev.com/ghpvc/?username=cronos-hash" alt="cronos-hash" />
 </p>
 <h1 align="center"></h1>
+<img src="http://www.hackthebox.eu/badge/image/667845" alt="Hack The Box">
+
