@@ -9,13 +9,14 @@
   <img src="https://komarev.com/ghpvc/?username=cronos-hash" alt="cronos-hash" />
 </p>
 <img align = "left" src="http://www.hackthebox.eu/badge/image/667845" alt="Hack The Box">
+![GitHub metrics](https://metrics.lecoq.io/cronos-hash)  
+
 <p align = "right">
  <!-- <img src = "https://github-readme-stats.vercel.app/api?username=cronos-hash&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&line_height=27">-->
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=cronos-hash&hide=TeX,HTML&theme=synthwave">
 </p>
-<h1 align="center"></h1>
 
-![GitHub metrics](https://metrics.lecoq.io/cronos-hash)  
+
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=cronos-hash)  
 
