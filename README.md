@@ -12,7 +12,7 @@
 </p>
 <h1 align="center"></h1>
 <details open>
- <summary> <b>__github_stats__</b></summary>
+ <summary> <b>other</b></summary>
 <br>
 
 </details>
