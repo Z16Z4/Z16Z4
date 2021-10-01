@@ -23,4 +23,4 @@
 </p>
 <h1 align="center"></h1>
 <img src="http://www.hackthebox.eu/badge/image/667845" alt="Hack The Box">
-
+ <script src="https://www.hackthebox.eu/badge/667845"></script>
