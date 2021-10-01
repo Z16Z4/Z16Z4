@@ -17,8 +17,6 @@
 
 </details>
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=cronos-hash" alt="cronos-hash" />
 </p>
-<h1 align="center"></h1>
-
