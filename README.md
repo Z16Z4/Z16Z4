@@ -8,8 +8,7 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=cronos-hash" alt="cronos-hash" />
 </p>
- <img src="https://tryhackme-badges.s3.amazonaws.com/greekbust.png" alt="TryHackMe">
-<img align = "left" src="http://www.hackthebox.eu/badge/image/667845" alt="Hack The Box">
+
 <p align = "right">
  <!-- <img src = "https://github-readme-stats.vercel.app/api?username=cronos-hash&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&line_height=27">-->
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=cronos-hash&hide=TeX,HTML&theme=synthwave">
